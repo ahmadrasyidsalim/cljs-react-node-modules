@@ -1,0 +1,15 @@
+{
+  "name": "cljs-react-node-modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ahmad Rasyid Salim <salimahmadrasyid@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.58.2",
+    "webpack-cli": "^4.9.0"
+  }
+}

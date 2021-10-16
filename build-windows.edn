@@ -1,0 +1,8 @@
+{:main cljs-react-node-modules.core
+ :output-to "dist/index.js"
+ :output-dir "dist"
+ :target :bundle
+ :bundle-cmd {:none ["yarn.cmd" "webpack" "./dist/index.js" "-o" "dist" "--mode=development"]
+              :default ["yarn.cmd" "webpack" "./dist/index.js" "-o" "dist"]}
+ :closure-defines {cljs.core/*global* "window"}
+ :launch-browser false}
