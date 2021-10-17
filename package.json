@@ -5,8 +5,8 @@
   "author": "Ahmad Rasyid Salim <salimahmadrasyid@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react": "^18.0.0-alpha-930c9e7ee-20211015",
+    "react-dom": "^18.0.0-alpha-930c9e7ee-20211015"
   },
   "devDependencies": {
     "webpack": "^5.58.2",
